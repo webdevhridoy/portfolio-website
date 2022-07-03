@@ -17,7 +17,7 @@ h1 {
     font-weight: 400;
 }
 
-section {
+.flex-container {
     display: flex;
     margin-bottom: 50px;
 }
@@ -63,8 +63,7 @@ section {
 .second-half-width {
     width: 50%;
     padding-right: 5%;
-    padding-left: 5%;
-    
+    padding-left: 5%;  
 }
 
 .second-half-width img {
@@ -87,9 +86,10 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
 }
 
-
-
-
+.third-half-width {
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;  
+}
