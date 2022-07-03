@@ -89,7 +89,21 @@ h1 {
 }
 
 .third-half-width {
-    width: 50%;
-    padding-right: 5%;
-    padding-left: 5%;  
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px #888dac;  
+    border-radius: 10px;
+    padding-left:10px;
+    padding:10px;
+}
+
+#elementor-expert {
+    border-left: 10px solid #120641;
+    border-top: 2px solid #120641;
+}
+
+#wordpress-expert {
+    border-right: 10px solid #310641;
+    border-bottom: 2px solid #310641;
 }
