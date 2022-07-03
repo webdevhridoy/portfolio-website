@@ -19,6 +19,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -54,3 +55,41 @@ section {
 .title-color {
     color: #ffffff;
 }
+
+.about-me {
+    vertical-align: middle;
+}
+
+.second-half-width {
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+}
+
+.second-half-width img {
+    width: 100%;
+}
+
+.second-half-width-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #888dac;
+    font-weight: 200;
+}
+
+.about-middle-title {
+    font-size: 30px;
+    color: #120641;
+}
+
+.about-me {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+
+
+
