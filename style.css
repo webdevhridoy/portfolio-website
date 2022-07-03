@@ -107,3 +107,7 @@ h1 {
     border-right: 10px solid #310641;
     border-bottom: 2px solid #310641;
 }
+
+footer p {
+    text-align: center;
+}
